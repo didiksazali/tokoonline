@@ -1,0 +1,11 @@
+[General]
+Tab Style=Pyramid
+Active Tab=6
+[Tabs]
+Home=home.php?page=1
+Edit Profil=home.php?page=2
+Edit Member=home.php?page=3
+Edit Forum=home.php?page=5
+View GIS=home.php?page=7
+New GIS=home.php?page=8
+Logout=logout.php
